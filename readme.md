@@ -1,3 +1,4 @@
+## Welcome :)
 
 ### [Fast Notes](FastNotes.md)
 
